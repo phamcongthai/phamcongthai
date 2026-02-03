@@ -11,10 +11,4 @@ Mục tiêu: phát triển web app chất lượng, học thêm AI và DevOps.
 - **Backend:** NodeJS, NestJS, Express, Go  
 - **Database:** MongoDB, PostgreSQL, MySQL  
 - **Tools:** Git, Docker, VSCode, IntelliJ IDEA  
-### Skills Progress
-```md
-- React       [█████████░░░░] 75%
-- NodeJS      [████████░░░░░] 70%
-- NestJS      [███████░░░░░░] 60%
-- MongoDB     [███████░░░░░░] 60%
-- TypeScript  [████████░░░░░] 70%
+

@@ -1,9 +1,9 @@
-# Hi there, I'm Thái Phạm Công
+# Hi there, I'm Thái Phạm Công (Peter Pham)
 
 Data Engineer | AI Enthusiast | Former Fullstack Developer  
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGR1ZmprbDV2YTVwczdoc2xrd2JjbXQ2NGtjZnEwYnEweWx4aGU4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="240"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGR1ZmprbDV2YTVwczdoc2xrd2JjbXQ2NGtjZnEwYnEweWx4aGU4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
 </p>
 
 ---

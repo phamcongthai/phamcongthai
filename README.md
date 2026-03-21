@@ -3,7 +3,7 @@
 Data Engineer | AI Enthusiast | Former Fullstack Developer  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQ9q4r8zLO/giphy.gif" width="220"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGR1ZmprbDV2YTVwczdoc2xrd2JjbXQ2NGtjZnEwYnEweWx4aGU4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
 </p>
 
 ---
